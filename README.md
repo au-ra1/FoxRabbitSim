@@ -1,6 +1,8 @@
 # FoxRabbitSim
 A simulation of foxes and rabbits inspired by the Lotka-Volterra equations
-**To use: download and run main.py, python 3.1+ required. Run without debug mode for significantly reduced lag.**
+
+**To use: clone the repository into your IDE or manually download and run the script, python 3.1+ required. Run without debug mode for significantly reduced lag.**
+
 While simplistic, it gives interesting visual effects and some examples of emergent behaviour.
 
 This uses pygame to create a window and clock / time system.
