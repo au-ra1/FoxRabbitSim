@@ -1,5 +1,6 @@
 # FoxRabbitSim
-pygame module required
+pygame module required. /n
+
 A simulation of foxes and rabbits inspired by the Lotka-Volterra equations. The idea is as follows: white pixels represent rabbits, red pixels represent foxes, and green pixels represent grass. The rabbits eat grass, foxes eat rabbits, and rabbits/foxes will die if not given food in a given amount of time. 
 
 <img width="240" height="271" alt="Screenshot from 2026-01-19 17-40-15" src="https://github.com/user-attachments/assets/6cd49208-f230-4aa2-8703-ece67f38fe3e" />
